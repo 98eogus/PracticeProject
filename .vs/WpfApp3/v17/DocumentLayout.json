@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|c:\\users\\98nob\\source\\repos\\wpfapp3\\wpfapp3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B0DA5592-AC00-4C7D-AD20-7B79EF24ACEE}|WpfApp3\\WpfApp3.csproj|solutionrelative:wpfapp3\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp3\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:43:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Service\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "WpfApp3\\Service\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:20:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Service\\CustomerService.cs",
+              "RelativeToolTip": "WpfApp3\\Service\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:39:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Model\\Customer.cs",
+              "RelativeToolTip": "WpfApp3\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:38:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-10T02:08:53.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:08:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "WpfApp3\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "WpfApp3\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:39:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\App.config",
+              "RelativeDocumentMoniker": "WpfApp3\\App.config",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\App.config",
+              "RelativeToolTip": "WpfApp3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-10T04:07:41.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\App.config",
+              "RelativeDocumentMoniker": "WpfApp3\\App.config",
+              "ToolTip": "C:\\Users\\98nob\\source\\repos\\WpfApp3\\WpfApp3\\App.config",
+              "RelativeToolTip": "WpfApp3\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-10T04:17:55.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
